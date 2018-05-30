@@ -72,6 +72,7 @@ Known issues and bugs
 >**[Version 1.1]**
 >
 >- [FIXED] Disharmonic terminal after selected a system.
+>
 >**[Version 1.0]**
 >
 >- [FIXED] Text align issue. Text moves when switching between selections.
